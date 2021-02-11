@@ -11,3 +11,14 @@ Low Level Requirement
 2. Grand TOTAL key.
 3. Decimal key.
 4. Basic Math operations key.
+
+high level Requirement
+1.Arithmetic operations
+2.exponential and logarithmetic expression 
+
+Low level requirement:
+1. Arithmetic - addition, subtraction , multiplication, division.
+input type :integer, float.
+2. exponential-B=BASE RESULT=B ^X WHERE AND X= EXPONENT
+   logarithmetic-RESULT log(x)
+   input type: integer, float.
