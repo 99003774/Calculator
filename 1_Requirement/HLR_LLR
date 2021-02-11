@@ -22,3 +22,23 @@ input type :integer, float.
 2. exponential-B=BASE RESULT=B ^X WHERE AND X= EXPONENT
    logarithmetic-RESULT log(x)
    input type: integer, float.
+
+High level requirement:
+1. Permutation and Combination
+2. Geometry shape
+
+Low level requirement:
+1. Permutation: Input two values a and r and both the values must be int.They can never be in float.
+The result value therefore will be int using the permutation function.
+   Combination: Input two values c and d and both the values must be int.They can never be in float.
+The result value therefore will be int using the permutation function.
+2. Geometry shapes: For square input q.It can either be in int or float.The result will be either int or 
+float using the area formula (q^2). The perimeter result will also be either int or float using the 
+formula (4q).
+                     For circle input e.It can either be in int or float.The result will be either int or 
+float using the area formula [(Pi*r*r). The perimeter result will also be either int or float using the 
+formula (2*Pi*r).
+                       For rectangle input l and b.It can either be in int or float.The result will be either int or 
+float using the area formula (l*b). The perimeter result will also be either int or float using the 
+formula [2(l+b).      
+
