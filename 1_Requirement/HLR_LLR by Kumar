@@ -1,1 +1,16 @@
+High Level Requirement
 
+1. 12-digit screen input.
+2. Dedicated MRC (Memory Recall and Clear)
+3. Dedicated check keys.
+4. Exponential functions are performed.
+5. Volume for cone, sphere, cylinder.
+6. Area for square and rectangle.
+7. Matrix
+
+Low Level Requirement
+
+1. Dedicated ON/OFF switch.
+2. Grand TOTAL key.
+3. Decimal key.
+4. Basic Math operations key.
