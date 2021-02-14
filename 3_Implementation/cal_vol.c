@@ -1,8 +1,36 @@
 #include<stdio.h>
 #include<math.h>
+const float PI =3.14;
+void volumeOfCone() {
+    printf("CONE\n");
+    float radius, height;
+    printf("Enter the radius \n");
+    scanf("%f", &radius);
+    printf("Enter the height \n");
+    scanf("%f", &height);
+    float volume = (PI*radius*radius*height)/3;
+    printf("Volume of cone is : %f", volume);
+}
+void volumeOfSphere() {
+    printf("SPHERE\n");
+    float radius;
+    printf("Enter the radius \n");
+    scanf("%f", &radius);
+    float volume = (PI*radius*radius*radius)*4/3;
+    printf("Volume of Sphere is : %f", volume);
+}
+void volumeOfCylinder() {
+    printf("CYLINDER\n");
+    float radius,height;
+    printf("Enter the radius \n");
+    scanf("%f", &radius);
+    printf("Enter the height \n");
+    scanf("%f", &height);    
+    float volume = PI*radius*2*height;
+    printf("The volume of cylinder is : %f", volume);
+}
 int main()
 {
-    float pi =3.14;
     int choice;
     printf("1. CONE\n");
     printf("2. Sphere\n");
@@ -13,39 +41,19 @@ int main()
     switch(choice)
     {
         case 1:
-            printf("CONE\n");
-            float r1,h;
-            printf("Enter the radius \n");
-            scanf("%f", &r1);
-            printf("Enter the height \n");
-            scanf("%f", &h);
-            float vol_cone = (pi*r1*r1*h)/3;
-            printf("Volume of cone is : %f", vol_cone);
+            volumeOfCone();
             break;
 
         case 2:
-            printf("SPHERE\n");
-            float r2;
-            printf("Enter the radius \n");
-            float vol_sphere = (pi*r2*r2*r2)*4 / 3;
-            printf("Volume of Sphere is : %f", vol_sphere);
+            volumeOfSphere();
             break;    
 
         case 3:
-            printf("CYLINDER\n");
-            float r3,height;
-            printf("Enter the radius \n");
-            scanf("%f", &r3);
-            printf("Enter the height \n");
-            scanf("%f", &height);    
-            float vol_cylinder = pi*r3*2*height;
-            printf("The volume of cylinder is : %f", vol_cylinder);
+            volumeOfCylinder();
             break;
-
         default:
             printf("Please enter correct choice \n");
             break;    
-
     }
         return 0;
 }
