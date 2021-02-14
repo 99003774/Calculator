@@ -47,5 +47,4 @@ By keeping the type of customer in mind we have set the base price for this calc
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+https://github.com/99003774/N7_SDLC_Calculator/issues/4#issue-807996152
