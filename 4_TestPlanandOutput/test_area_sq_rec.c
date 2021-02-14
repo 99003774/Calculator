@@ -46,21 +46,4 @@ void test_square_testcase2(void) {
 }
 void test_rectangle(void) {
   TEST_ASSERT_EQUAL(0.000000, rectangle(0, 3));
-  
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, subtract(1000, 900));
-}
-
-void test_multiply(void) {
-  TEST_ASSERT_EQUAL(0, multiply(1, 0));
-  
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, multiply(2, 5));
-}
-
-void test_divide(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
-  
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3, divide(2, 2));
 }
