@@ -43,8 +43,7 @@ By keeping the type of customer in mind we have set the base price for this calc
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+![HLR_Kumar](https://user-images.githubusercontent.com/78853952/107882697-e65dd100-6f10-11eb-9db7-ae49be69ef2c.jpg)
 
 
 ##  Low level Requirements:
