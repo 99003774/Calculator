@@ -47,4 +47,4 @@ By keeping the type of customer in mind we have set the base price for this calc
 
 
 ##  Low level Requirements:
-https://github.com/99003774/N7_SDLC_Calculator/issues/4#issue-807996152
+![Low Level Requirement-1](https://user-images.githubusercontent.com/78853952/107882894-da264380-6f11-11eb-9a73-68b4c9754179.jpg)
