@@ -23,7 +23,7 @@ By keeping the type of customer in mind we have set the base price for this calc
 
 ## Who:
 
-**TBD**
+**Student and businessman.**
 
 ## What:
 
