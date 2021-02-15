@@ -11,9 +11,9 @@
 #include <stdio_ext.h>
 void areaOfSquare() 
 void areaOfRectangle()
-void volOfSphere()
-void volOfCone()
-void volOfCylinder()  
+void volumeOfSphere()
+void volumeOfCone()
+void volumeOfCylinder()  
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 
