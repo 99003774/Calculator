@@ -15,7 +15,7 @@ By keeping the type of customer in mind we have set the base price for this calc
 
 ![image](https://user-images.githubusercontent.com/78853952/107922921-b9540180-6f96-11eb-9d30-8191fb02780d.png)
 
-##Defining Our System
+## Defining Our System
 
 1. Power ON/OFF switch.
 2. Dedicated MRC switch.
