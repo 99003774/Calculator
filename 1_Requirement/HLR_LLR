@@ -11,7 +11,7 @@ input type :integer, float.
 
 High level requirement:
 1. Permutation and Combination.
-2. Geometry shape
+2. Geometry shape.
 
 Low level requirement:
 1. Permutation: Input two values a and r and both the values must be int.They can never be in float.
