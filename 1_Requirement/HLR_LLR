@@ -21,7 +21,7 @@ The result value therefore will be in int using the permutation function.
 2. Geometry shapes: For square input q.It can either be in int or float.Therefore the result will be either in int or 
 float using the area formula (q^2). The perimeter result will also be either int or float using the 
 formula (4q).
-                     For circle input e.It can either be in int or float.The result will be either int or 
+                     For circle input e.It can either be in int or float.The result will be either in int or 
 float using the area formula [(Pi*r*r). The perimeter result will also be either int or float using the 
 formula (2*Pi*r).
                        For rectangle input l and b.It can either be in int or float.The result will be either int or 
