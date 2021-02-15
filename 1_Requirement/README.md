@@ -4,9 +4,8 @@ This is a 14 digit smart scientific as well as professional calculator. Calculat
  
 ## Research
 
-Simple Calculator : It is a basic calculator with arithmetic functions like addition, substraction, multiplication, division.
-Scientific Calculator : In this calculator maths operations like trigonometry, matrix, permutation and combination etc can be performed.
-Professional Calculator : 
+1. Simple Calculator : It is a basic calculator with arithmetic functions like addition, substraction, multiplication, division.
+2. Scientific Calculator : In this calculator maths operations like trigonometry, matrix, permutation and combination etc can be performed.
 
 ## Cost and Features
 
