@@ -9,11 +9,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdio_ext.h>
-void areaOfSquare() 
-void areaOfRectangle()
-void volumeOfSphere()
-void volumeOfCone()
-void volumeOfCylinder()  
+
+
+int areaOfSquare() 
+int areaOfRectangle()
+int volumeOfSphere()
+int volumeOfCone()
+int volumeOfCylinder()  
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 
