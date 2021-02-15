@@ -1,6 +1,7 @@
 #include <calculator_operations.h>
 
-int areaOfSquare() {
+int areaOfSquare() 
+{
     float side;
     printf("SQUARE\n");
     printf("Enter the side\n");
