@@ -10,7 +10,10 @@
 #include <stdlib.h>
 #include <stdio_ext.h>
 void areaOfSquare() 
-void areaofRectangle()
+void areaOfRectangle()
+void volOfSphere()
+void volOfCone()
+void volOfCylinder()  
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 
