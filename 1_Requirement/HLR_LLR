@@ -17,7 +17,7 @@ Low level requirement:
 1. Permutation: Input two values a and r and both the values must be int.They can never be in float.
 The result value therefore will be in int using the permutation function.
    Combination: Input two values c and d and both the values must be int.They can never be in float.
-The result value therefore will be int using the permutation function.
+The result value therefore will be in int using the permutation function.
 2. Geometry shapes: For square input q.It can either be in int or float.The result will be either int or 
 float using the area formula (q^2). The perimeter result will also be either int or float using the 
 formula (4q).
