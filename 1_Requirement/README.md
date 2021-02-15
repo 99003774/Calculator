@@ -6,7 +6,7 @@ This is a 14 digit smart scientific as well as professional calculator.
 https://github.com/99003774/N7_SDLC_Calculator/issues/2#issue-807971934
 
 Simple Calculator : It is a basic calculator with arithmetic functions like addition, substraction, multiplication, division.
-Scientific Calculator: In this calculator maths operations like trigonometry, matrix, etc can be performed.
+Scientific Calculator: In this calculator maths operations like trigonometry, matrix, permutation and combination etc can be performed.
 
 
 ## Cost and Features
