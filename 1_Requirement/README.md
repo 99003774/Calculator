@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-This is a 14 digit smart scientific as well as professional calculator. 
+This is a 14 digit smart scientific as well as professional calculator. Calculator is a scientific device which is used to perform various calculations like arithmetic, logical, trigonometry etc. This device is very easy to use and it is also used by many people including students. In our calculator our team has introduced few extra features like finding volume of cone, sphere, area of square, permutation and combination etc.
  
 ## Research
 https://github.com/99003774/N7_SDLC_Calculator/issues/2#issue-807971934
