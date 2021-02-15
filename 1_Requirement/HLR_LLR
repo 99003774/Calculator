@@ -26,5 +26,5 @@ float using the area formula [(Pi*r*r). The perimeter result will also be either
 formula (2*Pi*r).
                        For rectangle input l and b.It can either be in int or float.The result will be either int or 
 float using the area formula (l*b). The perimeter result will also be either int or float using the 
-formula [2(l+b).      
+formula [2(l+b)].      
 
