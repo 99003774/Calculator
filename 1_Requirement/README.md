@@ -3,11 +3,10 @@
 This is a 14 digit smart scientific as well as professional calculator. Calculator is a scientific device which is used to perform various calculations like arithmetic, logical, trigonometry etc. This device is very easy to use and it is also used by many people including students. In our calculator our team has introduced few extra features like finding volume of cone, sphere, area of square, permutation and combination etc.
  
 ## Research
-https://github.com/99003774/N7_SDLC_Calculator/issues/2#issue-807971934
 
 Simple Calculator : It is a basic calculator with arithmetic functions like addition, substraction, multiplication, division.
-Scientific Calculator: In this calculator maths operations like trigonometry, matrix, permutation and combination etc can be performed.
-
+Scientific Calculator : In this calculator maths operations like trigonometry, matrix, permutation and combination etc can be performed.
+Professional Calculator : 
 
 ## Cost and Features
 
@@ -15,6 +14,20 @@ In this calculator their will be an option of dedicated MRC which is Memory Reca
 By keeping the type of customer in mind we have set the base price for this calculator to Rs 3000 to Rs 4000 depending on the product type.
 
 (https://www.officewarehouse.com.ph/__resources/_web_data_/products/products/images/3090.jpg)
+
+##Defining Our System
+
+1. Power ON/OFF switch.
+2. Dedicated MRC switch.
+3. High speed operations.
+4. Space given for printing receipts.
+5. 14 digit display.
+6. Operated on both solar as well as battery.
+7. High level maths and science functionality.
+8. Multilevel display.
+
+
+
 
 ## SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/78853952/107879173-45194f80-6efd-11eb-9be0-072ef642b74a.jpg)
