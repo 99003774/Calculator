@@ -11,6 +11,8 @@ void test_add_testcase2(void);
 void test_subtract(void);
 void test_multiply(void);
 void test_divide(void);
+void test_per_comb(void);
+void test_geometry(void);
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -29,7 +31,8 @@ int main()
   RUN_TEST(test_subtract);
   RUN_TEST(test_multiply);
   RUN_TEST(test_divide);
-
+  RUN_TEST(test_per_comb);
+  RUN_TEST(test_geometry);
   /* Close the Unity Test Framework */
   return UNITY_END();
 }
@@ -65,4 +68,12 @@ void test_divide(void) {
   
   /* Dummy fail*/
   // TEST_ASSERT_EQUAL(3, divide(2, 2));
+}
+
+void test_per_comb(void){
+
+}
+
+void test_geometry(void){
+
 }

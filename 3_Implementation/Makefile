@@ -12,6 +12,8 @@ src/Calc_geo.c\
 
 # All test source files
 TEST_SRC = src/calculator_operations.c\
+src/Calc_pnc.c\
+src/Calc_geo.c\
 test/test_calculator_operations.c\
 unity/unity.c\
 
