@@ -104,6 +104,7 @@ void calculator_menu(void)
             break;
         case 6:
             geometry();
+            break;
         case 20:
             exit(0);
             break;
