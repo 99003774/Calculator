@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <stdlib.h>
 
 #ifndef __CALC_GEO_H__
 #define __CALC_GEO_H__

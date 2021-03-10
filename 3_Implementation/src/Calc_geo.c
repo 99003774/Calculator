@@ -22,7 +22,6 @@ void geometry()
      printf("Wrong Operation chosen");
         exit(0);   
     }
-    return 0;
 }
 void Rectangle()
 {

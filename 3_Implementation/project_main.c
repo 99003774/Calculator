@@ -14,7 +14,7 @@ int calculator_operand1 = 0;
 int calculator_operand2 = 0;
 
 /* Valid operations */
-enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, EXIT };
+enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE };
 
 /* Display the menu of operations supported */
 void calculator_menu(void);
@@ -41,7 +41,7 @@ void calculator_menu(void)
      // __fpurge(stdin);
     scanf("%d", &calculator_operation);
 
-    if(EXIT == calculator_operation)
+    if(20 == calculator_operation)
     {
         printf("\nThank you. Exiting the Application\n");
         exit(0);
@@ -49,9 +49,9 @@ void calculator_menu(void)
 
     if(INVALID != valid_operation(calculator_operation))
     {
-        printf("\n\tEnter your Numbers with space between them\n");
+        printf("\n\tStarting Operations\n");
         // __fpurge(stdin);
-        scanf("%d %d", &calculator_operand1, &calculator_operand2);
+        //scanf("%d %d", &calculator_operand1, &calculator_operand2);
     }
     else
     {
@@ -116,5 +116,5 @@ void calculator_menu(void)
 int valid_operation(int operation)
 {
     /* Check if the operation is a valid operation */
-    return ((ADD <= operation) && (EXIT >= operation)) ? VALID: INVALID;
+    return ((ADD <= operation) && (20 >= operation)) ? VALID: INVALID;
 }
