@@ -10,3 +10,6 @@
 
 
 [![Contribution Check - Git Inspector](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/gitinspector.yml)
+
+
+[![Unit Testing - Unity](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/unity.yml)
