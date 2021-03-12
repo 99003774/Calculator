@@ -23,7 +23,7 @@ Folder             | Description
 PS No.     |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -----------|---------      | ----------------|----------------|---------------|-------------|--------------
 `99003774` | Kumar Utsav   | Feature A, B etc    | X No     | X No   |X No   |X No     
-`99003772` | Shayani Basak | Feature C, D etc    | X No     | X No   |X No   |X No     
+`99003772` | Sayani Basak | Feature C, D etc    | X No     | X No   |X No   |X No     
 
 
 ## Learning Resources
