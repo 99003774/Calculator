@@ -6,3 +6,6 @@
 [![C/C++ CI - Build Status](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/c-cpp.yml)
 
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003774/N7_SDLC_Calculator/actions/workflows/cppcheck.yml)
+
+
