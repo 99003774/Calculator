@@ -1,8 +1,0 @@
-| TEST CASE ID | TEST DESCRIPTION | INPUT | OUTPUT |
-| --- | --- | --- | --- |
-| Tc arith\_001 | If a number divide by zero, the result will be undefined | 5/0 | undefined |
-| Tc arith-002 | If a number multiply by zero, the result will be zero. | 5\*0 | zero |
-| Tc expo\_003 | In exponential function operation, if the input value is zero, then the output will be 1 | F(x)= exp(x)x=0 | The output will be 1 |
-| Tc power\_004 | In power operation, if the exponent is zero, then the output will be 1 | F(x)= b^x If x=0
- | Output will be 1 |
-| Tc log\_005 | In logarithmic operation, if the input value is zero, then the output will be undefined | F(x)=log(x)X=0 | undefined |
