@@ -4,7 +4,6 @@ High level requirement:
 
 
 Low level requirement:
-
 1. Permutation: 
 Input two values a and r and both the values must be int.They can never be in float.
 The result value therefore will be in int using the permutation function.
