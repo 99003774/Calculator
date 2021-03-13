@@ -6,7 +6,7 @@
 |-------------|--------------------------------------------------------------|------------  |------------------|----------------|
 |  H_01       |  Area: SQUARE If any side is zero whole area will be zero.   |      0       |0 is not allowed. | 0              |
 |  H_02       |  Area: RECTANGLE If any side is zero whole area will be zero.|      0       |0 is not allowed. | 0              |
-|  H_03       |--------------------------------------------------------------|  ------------|-------------     |----------------|
+|  H_03       |  Volume: CONE All inputs should be in same direction.        |1st input in cm, 2nd input in m |ERROR|Both the input should be in cm or m|
 
 ## Table no: Low level test plan
 
