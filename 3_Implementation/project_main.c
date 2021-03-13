@@ -1,12 +1,13 @@
-// #include "Calc_geo.h"
-// #include "Calc_pnc.h"
-// #include "calculator_operations.h"
 #include "area_ku.h"
 #include "volume_ku.h"
+#include "Calc_ari.h"
+#include "Calc_pnc.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 // /* Status of the operation requested */
-// #define VALID   (1)
-// #define INVALID (0)
+ #define VALID   (1)
+ #define INVALID (0)
 
 // /* Calculator operation requested by user*/
 // unsigned int calculator_operation = 0;
@@ -127,6 +128,9 @@ int main()
 {
     float rad, hei;
     float len,bre,si;
+    float d,c,e,f,g,h,i,j;
+    long a,b;
+    long z;
     // printf("Enter the side\n");
     // scanf("%f", &si);
 
@@ -146,5 +150,13 @@ int main()
     volumeOfCone(rad,hei);
     volumeOfSphere(rad);
     volumeOfCylinder(rad,hei);  
+    add(d,c);
+    sub(e,f);
+    mul(g,h);
+   
+ float divs(float s5, float s6); 
+ long permutation(int n, int r);
+ long combination(int n, int r);
+ long factorial(int x);
     return 0;
 }
