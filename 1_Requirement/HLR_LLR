@@ -3,11 +3,14 @@ High level requirement:
 2. Arithmetic operations.
 
 Low level requirement:
-1. Permutation: Input two values a and r and both the values must be int.They can never be in float.
+1. Permutation: 
+Input two values a and r and both the values must be int.They can never be in float.
 The result value therefore will be in int using the permutation function.
-   Combination: Input two values c and d and both the values must be int.They can never be in float.
+   Combination: 
+   Input two values c and d and both the values must be int.They can never be in float.
 The result value therefore will be in int using the permutation function.
-2. arithmetic Operation: For addition we take two numbers a and b.Bothe the numbers can be of any data type.
+2. arithmetic Operation: 
+For addition we take two numbers a and b.Bothe the numbers can be of any data type.
 Then we add the two numbers.
 For substraction we take two numbers a and b.Bothe the numbers can be of any data type.Then we substract the two numbers.
 For multipication we take two numbers a and b.Bothe the numbers can be of any data type.
