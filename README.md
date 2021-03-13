@@ -2,7 +2,7 @@
 
 ## SDLC Activity Based Learning
 
-Visit [Pages for Report -optional](using github.io option)
+Visit [Pages for Report -optional] (using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
@@ -20,10 +20,10 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No.     |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
------------|---------      | ----------------|----------------|---------------|-------------|--------------
-`99003774` | Kumar Utsav   | Feature A, B etc    | X No     | X No   |X No   |X No     
-`99003772` | Sayani Basak | Feature C, D etc    | X No     | X No   |X No   |X No     
+PS No.     |  Name         |    Features         | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-----------|---------      | ----------------    |----------------|---------------|-------------|--------------
+`99003774` | Kumar Utsav   | Volume, Area        |      3         | 3             |      5      |     5    
+`99003772` | Sayani Basak  | Arithmetic, PnC     | X No           | X No          |X No         |X No     
 
 
 ## Learning Resources
