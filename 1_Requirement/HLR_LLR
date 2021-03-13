@@ -10,5 +10,7 @@ The result value therefore will be in int using the permutation function.
 2. arithmetic Operation: For addition we take two numbers a and b.Bothe the numbers can be of any data type.
 Then we add the two numbers.
 For substraction we take two numbers a and b.Bothe the numbers can be of any data type.Then we substract the two numbers.
+For multipication we take two numbers a and b.Bothe the numbers can be of any data type.
+Then we multiply the two numbers.
 
 
