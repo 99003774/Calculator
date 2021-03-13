@@ -6,8 +6,8 @@
 #include <stdio.h>
 
 // /* Status of the operation requested */
- #define VALID   (1)
- #define INVALID (0)
+#define VALID   (1)
+#define INVALID (0)
 
 // /* Calculator operation requested by user*/
 // unsigned int calculator_operation = 0;
@@ -149,7 +149,7 @@ int main()
     areaOfRectangle(len,bre);
     volumeOfCone(rad,hei);
     volumeOfSphere(rad);
-    volumeOfCylinder(rad,hei);  
+    volumeOfCylinder(rad,hei); 
     add(d,c);
     sub(e,f);
     mul(g,h);
@@ -158,5 +158,6 @@ int main()
  long permutation(int n, int r);
  long combination(int n, int r);
  long factorial(int x);
+
     return 0;
 }
