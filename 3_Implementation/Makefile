@@ -7,11 +7,15 @@ BUILD = build
 # All source code files
 SRC = project_main.c\
 src/area_ku.c\
-src/volume_ku.c
+src/volume_ku.c\
+src/Calc_ari.c\
+src/Calc_pnc.c
 
 # All test source files
 TEST_SRC = src/area_ku.c\
 src/volume_ku.c\
+src/Calc_ari.c\
+src/Calc_pnc.c\
 test/test_area_vol.c\
 unity/unity.c
 
@@ -43,7 +47,7 @@ all: $(SRC) $(BUILD)
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
-	./$(PROJECT_OUTPUT).out
+    ./$(PROJECT_OUTPUT).out
 
 # Document the code using Doxygen
 #doc:
