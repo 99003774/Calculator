@@ -28,9 +28,14 @@ PS No.     |  Name         |    Features         | Issuess Raised |Issues Resolv
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
+![image](https://user-images.githubusercontent.com/78853952/111102278-bafeee00-8571-11eb-8f65-f3606d20b42a.png)
+
+
+
+3. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+4. [git inspector](https://github.com/ejwa/gitinspector.git)
+5. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
 ![image](https://user-images.githubusercontent.com/78853952/111102212-8c811300-8571-11eb-8c92-db7e12d7ce83.png)
