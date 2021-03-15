@@ -25,6 +25,34 @@ PS No.     |  Name         |    Features         | Issuess Raised |Issues Resolv
 `99003774` | Kumar Utsav   | Volume, Area        |      3         |       3       |      5      |     5    
 `99003772` | Sayani Basak  | Arithmetic, PnC     |      2         |       2       |      7      |     7
 
+# AGILE METHODOLOGY
+
+# THEME
+The theme is designing a calculator with certain features according to the specific requirements. The target customers for the calculator are students, engineers, scientists etc.
+
+# EPIC
+Epic according to the requirements provided are:
+1.Arithmetic operations.
+2.Permutation and combination.
+3.Volume and area calculations.
+
+# USER STORY
+Arithmetic operations:
+1. Addition, subtraction, multiplication and divisionare done.
+2. Use input(integer data type)required to perform calculations.
+
+Permutation and combination:
+1. Permutation and combination is performed.
+2. Use input(integer data type)required to perform calculations.
+
+
+Area calculations:
+1. Calculation of area and rectangle are done.
+2. Use input(float data type) required to perform calculations.
+
+Volume calculations:
+1. Calculations of cone, cylinder and sphere are done
+2. Use input(float data type) required to perform calculations.
 
 
 
