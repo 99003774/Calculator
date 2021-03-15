@@ -23,7 +23,7 @@ Folder             | Description
 PS No.     |  Name         |    Features         | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -----------|---------      | ----------------    |----------------|---------------|-------------|--------------
 `99003774` | Kumar Utsav   | Volume, Area        |      3         |       3       |      5      |     5    
-`99003772` | Sayani Basak  | Arithmetic, PnC     |      0         |       0       |      7      |     7
+`99003772` | Sayani Basak  | Arithmetic, PnC     |      2         |       2       |      7      |     7
 
 
 ## Learning Resources
