@@ -26,6 +26,36 @@ PS No.     |  Name         |    Features         | Issuess Raised |Issues Resolv
 `99003772` | Sayani Basak  | Arithmetic, PnC     |      2         |       2       |      7      |     7
 
 
+# AGILE METHODOLOGY
+
+# THEME
+The theme is designing a calculator with certain features according to the specific requirements. The target customers for the calculator are students, engineers, scientists etc.
+
+# EPIC
+Epic according to the requirements provided are:
+1. Arithmetic operations
+2. Permutation and combination
+3. Volume and area calculations.
+
+# USER STORY 
+
+Arithmetic operations:
+1. Addition, substraction, multiplication and division is done.
+2. User inputs(integer data types) required to perform calculations.
+
+Permutation and combination:
+1.Permutation and combination is performed.
+2.User inputs(integer data types) required to perform calculations.
+
+Area calculation:
+1.Calculation of square and rectangle are done.
+2.User inputs(float data types) required to perform calculations.
+
+Volume calculation:
+1. Calculation of cone, cylinder and sphere are done.
+2. User inputs(float data types) required to perform calculations.
+
+
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 3. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
