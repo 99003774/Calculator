@@ -26,7 +26,8 @@ PS No.     |  Name         |    Features         | Issuess Raised |Issues Resolv
 `99003772` | Sayani Basak  | Arithmetic, PnC     |      2         |       2       |      7      |     7
 
 
-# AGILE METHODOLOGY
+# ACTIVITY 2: AGILE METHODOLOGY
+
 
 # THEME
 The theme is designing a calculator with certain features according to the specific requirements. The target customers for the calculator are students, engineers, scientists etc.
