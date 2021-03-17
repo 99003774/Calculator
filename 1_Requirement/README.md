@@ -28,6 +28,7 @@ By keeping the type of customer in mind we have set the base price for this calc
 
 
 
+
 ## SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/78853952/107879173-45194f80-6efd-11eb-9be0-072ef642b74a.jpg)
 
